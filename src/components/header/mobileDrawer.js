@@ -38,7 +38,7 @@ const MobileDrawer = () => {
           <Logo src={LogoDark} />
           <Box sx={styles.menu}>
             {menuItems.map(({ path, label }, i) => (
-              <Link path={path} key={i} label={label} sx={styles.menu.link} />
+              <Link path={"/"} key={i} label={label} sx={styles.menu.link} />
             ))}
           </Box>
 

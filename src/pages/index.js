@@ -32,7 +32,6 @@ export default function IndexPage() {
             <PopularCourse />
             <WorkFlow />
             <Pricing />
-            <CtaTwo />
             <FAQ />
             <CtaOne />
             <Modal />

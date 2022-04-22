@@ -79,7 +79,7 @@ const PopularCourse = () => {
         <BlockTitle
           sx={styles.popularCourse.blockTitle}
           tagline="Quality features"
-          heading="Popular Designing Course"
+          heading="Popular Courses"
         />
         {popularCourseData.map((course, index) => (
           <Box sx={styles.popularCourse.col} key={index}>

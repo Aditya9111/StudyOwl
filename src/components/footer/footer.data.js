@@ -54,10 +54,6 @@ export default [
     items: [
       {
         path: "/",
-        label: "Press inquiries",
-      },
-      {
-        path: "/",
         label: "Social media ",
       },
       {

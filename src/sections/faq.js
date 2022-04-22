@@ -7,25 +7,12 @@ const accordionData = [
   {
     isExpanded: false,
     title:
-      "What’s the difference between a supervised experience or regular YouTube? ?",
+      "What’s the difference between a supervised experience or regular YouTube ?",
     contents: (
       <div>
-        Your child’s experience will look much like YouTube’s flagship app and
-        website, but with adjustments to the content they can find and watch,
-        features they can use, default account settings, and ads protections.
-        The videos they can watch will depend on a content setting that you
-        select for their supervised account when granting them permission to use
-        YouTube. We’ll disable a number of standard features normally available
-        in YouTube, like comments and live chat, as well as the abilities to
-        create a channel, upload content, and make purchases. Automatic
-        reminders will appear for breaks and bedtime, which they can adjust to
-        reinforce healthy screen time habits, and YouTube’s autoplay feature
-        will be off by default as well. Since self-expression and community are
-        integral parts of the YouTube experience we’ll work with parents and
-        experts as we consider adding some of these features in the future. This
-        experience does not support accounts provided through a school, work, or
-        other organization, so make sure you're using a personal Google Account
-        for yourself and your child.
+        Youtube or other platforms can expose your kids to unwanted things but
+        our website has supervised video uploading which means every video is
+        properly vetted befor uploading.
       </div>
     ),
   },
@@ -35,13 +22,8 @@ const accordionData = [
       "What is Study Owl? How is it different from a supervised account on YouTube?",
     contents: (
       <div>
-        An FAQ is a list of frequently asked questions (FAQs) and answers on a
-        particular topic (also known as Questions and Answers [Q&A] or
-        Frequently Asked Questions). The format is often used in articles,
-        websites, email lists, and online forums where common questions tend to
-        recur, for example through posts or queries by new users related to
-        common knowledge gaps. The purpose of an FAQ is generally provide
-        information.
+        Study owl is a kid learning website where kids from ages 10-14 years can
+        come to learn innpvative technologies.
       </div>
     ),
   },
@@ -50,13 +32,8 @@ const accordionData = [
     title: "Website reponse taking time, how to improve?",
     contents: (
       <div>
-        An FAQ is a list of frequently asked questions (FAQs) and answers on a
-        particular topic (also known as Questions and Answers [Q&A] or
-        Frequently Asked Questions). The format is often used in articles,
-        websites, email lists, and online forums where common questions tend to
-        recur, for example through posts or queries by new users related to
-        common knowledge gaps. The purpose of an FAQ is generally provide
-        information.
+        Due to heavy traffic website can slow down.We request you to please wait
+        for some time and try again.
       </div>
     ),
   },
@@ -65,13 +42,8 @@ const accordionData = [
     title: "New update fixed all bug and issues",
     contents: (
       <div>
-        An FAQ is a list of frequently asked questions (FAQs) and answers on a
-        particular topic (also known as Questions and Answers [Q&A] or
-        Frequently Asked Questions). The format is often used in articles,
-        websites, email lists, and online forums where common questions tend to
-        recur, for example through posts or queries by new users related to
-        common knowledge gaps. The purpose of an FAQ is generally provide
-        information.
+        Our team keeps working to improve your experience and make our website
+        as bug free as we can.If you encounter a bug please report it to us.
       </div>
     ),
   },

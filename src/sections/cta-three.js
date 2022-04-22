@@ -29,7 +29,7 @@ const CtaThree = () => {
                 <Heading as="h3" sx={styles.ctaThree.color1}>
                   80K+
                 </Heading>
-                <Text as="p">{"We have more than \n students"}</Text>
+                <Text as="p">{"students learning everyday"}</Text>
               </Box>
               <Box sx={styles.ctaThree.box}>
                 <Heading sx={styles.ctaThree.color2} as="h3">

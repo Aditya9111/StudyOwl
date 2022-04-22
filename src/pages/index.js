@@ -9,7 +9,6 @@ import Modal from "components/modal";
 import Banner from "sections/banner";
 import CtaOne from "sections/cta-one";
 import FAQ from "sections/faq";
-import CtaTwo from "sections/cta-two";
 import WorkFlow from "sections/workflow";
 import Pricing from "sections/pricing";
 import PopularCourse from "sections/popular-course";
@@ -22,10 +21,7 @@ export default function IndexPage() {
       <StickyProvider>
         <VideoProvider>
           <Layout>
-            <SEO
-              description="Collection of free kids videos"
-              title="Study Owl"
-            />
+            <SEO description="Collection of kids videos" title="Study Owl" />
             <Banner />
             <FavoriteCourse />
             <CtaThree />
